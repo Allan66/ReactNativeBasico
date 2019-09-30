@@ -1,2 +1,2 @@
 # ReactNativeBasico
-Exercícios 
+Exercícios em React Native.
